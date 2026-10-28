@@ -147,6 +147,14 @@ Configure em **Configurações > Mensagem Padrão**:
 
 ---
 
+### 6. Clonando o projeto
+```bash
+git clone https://github.com
+cd proposta-services
+```
+
+----
+
 ## 🛣️ Roadmap Futuro
 - [ ] Pagamentos (Stripe/PagSeguro/Mercado Pago)
 - [ ] Notificações por e-mail

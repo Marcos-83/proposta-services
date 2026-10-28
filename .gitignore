@@ -1,0 +1,10 @@
+# Configurações locais
+.env
+
+# Logs e arquivos temporários
+*.log
+.tmp
+
+# Pastas de IDEs (se usar VS Code ou PhpStorm)
+.vscode/
+.idea/
